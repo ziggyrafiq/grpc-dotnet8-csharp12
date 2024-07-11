@@ -31,15 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GreeterClient",
+              "Title": "GreeterClient.csproj",
               "DocumentMoniker": "E:\\GitHub\\grpc-dotnet8-csharp12\\GreeterClient\\GreeterClient.csproj",
               "RelativeDocumentMoniker": "GreeterClient\\GreeterClient.csproj",
               "ToolTip": "E:\\GitHub\\grpc-dotnet8-csharp12\\GreeterClient\\GreeterClient.csproj",
               "RelativeToolTip": "GreeterClient\\GreeterClient.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-11T10:04:20.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T10:04:20.886Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "GreeterClient\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:05:13.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T16:05:13.302Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "GreeterServer\\Services\\GreeterService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:04:55.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T16:04:55.227Z"
             }
           ]
         }

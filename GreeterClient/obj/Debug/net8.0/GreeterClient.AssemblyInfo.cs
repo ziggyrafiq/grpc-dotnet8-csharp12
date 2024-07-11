@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreeterClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf36cef912afe9bc1f01471362b8728717d08f77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e41597618273ee988d58129c778cc7cca1a21ea6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreeterClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreeterClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
